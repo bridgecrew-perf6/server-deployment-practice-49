@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [ci/cd](https://github.com/ravenmoore-401-JS/server-deployment-practice/actions) (GitHub Actions)
+- [back-end server url](https://ravenmoore-server-deploy-dev.herokuapp.com/) (when applicable)
 - [front-end application](http://xyz.com) (when applicable)
 
 ### Setup
@@ -28,6 +28,8 @@ run `npm start`
 #### Tests
 
 - How do you run tests?
+to check tests run : "npm test"
+
 - Any tests of note?
 - Describe any tests that you did not complete, skipped, etc
 
